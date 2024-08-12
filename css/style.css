@@ -256,12 +256,12 @@
 }
 
 .service-item .btn {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 20px;
     display: inline-flex;
     align-items: center;
     background: #FFFFFF;
-    border-radius: 40px;
+    border-radius: 20px;
     white-space: nowrap;
     overflow: hidden;
     transition: .5s;
